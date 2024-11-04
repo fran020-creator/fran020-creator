@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img width="8" /> <br/>
+  <img src="https://github.com/user-attachments/assets/bdbf5661-9bb3-4960-ba66-5e51f6c994bf" height="25" alt="mysql logo"  />
   <img width="8" />
   
 
