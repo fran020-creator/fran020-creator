@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me!</h3>
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/patrick-paiva-7a2749269)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-paiva-7a2749269/)
 
 
 
