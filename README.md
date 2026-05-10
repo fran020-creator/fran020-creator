@@ -17,7 +17,6 @@
 💻 Desenvolvedor focado em Web, Mobile e Inteligência Artificial <br>
 📚 Atualmente estudando JavaScript, SQL e Arquitetura de Sistemas <br>
 🔥 Apaixonado por transformar ideias em soluções reais <br>
-🎯 Buscando minha primeira oportunidade como Desenvolvedor
 </p>
 
 ---
