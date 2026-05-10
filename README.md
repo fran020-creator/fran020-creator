@@ -13,7 +13,7 @@
 ## 🚀 Sobre Mim
 
 <p align="center">
-🎓 Estudante de Ciência da Computação - Universidade Estácio de Sá <br>
+🎓 Estudante de Ciência da Computação<br>
 💻 Desenvolvedor focado em Web, Mobile e Inteligência Artificial <br>
 📚 Atualmente estudando JavaScript, SQL e Arquitetura de Sistemas <br>
 🔥 Apaixonado por transformar ideias em soluções reais <br>
