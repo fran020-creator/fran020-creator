@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0900FF&center=true&vCenter=true&width=600&lines=⊹+Bem+Vindo+Ao+Meu+Perfil!+˙ᵕ˙+⊹;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia+e+Inovação" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0900FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+Profile!;Full+Stack+Developer;Backend+%7C+AI+%7C+System+Architecture;Building+Real+Solutions+with+Technology" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,25 +14,152 @@
 
 <p align="center">
 🎓 Estudante de Ciência da Computação<br>
-💻 Desenvolvedor focado em Web, Mobile e Inteligência Artificial <br>
-📚 Atualmente estudando JavaScript, SQL e Arquitetura de Sistemas <br>
-🔥 Apaixonado por transformar ideias em soluções reais <br>
+💻 Desenvolvedor Full Stack com foco em Backend e Arquitetura de Sistemas<br>
+🤖 Desenvolvendo projetos envolvendo Inteligência Artificial e Computer Vision<br>
+🏗️ Estudando Arquitetura de Sistemas, APIs, Microsserviços e Cloud<br>
+🔥 Apaixonado por transformar ideias em soluções reais
 </p>
 
 ---
 
 <img align="right" height="190px" src="./src/study.gif">
 
-## 👨‍💻 About Me
+## 👨‍💻 Atualmente
 
-* 🎓 5º período de Ciência da Computação
-* 🧠 Desenvolvendo projetos SaaS e sistemas com IA
-* ⚡ Experiência com React, Java, Kotlin e Backend Web
-* 🌎 Criando soluções reais para problemas reais
-* 📈 Evoluindo constantemente como desenvolvedor
+* 🎓 Estudante de Ciência da Computação
+* 💻 Desenvolvendo aplicações Web, APIs e sistemas distribuídos
+* 🧠 Trabalhando em projetos envolvendo IA e análise de imagens
+* 🏗️ Estudando arquitetura de sistemas, microsserviços e Docker
+* 📚 Aprofundando conhecimentos em JavaScript, SQL, Python e Backend
+* 🚀 Criando projetos práticos para resolver problemas reais
+* 📈 Buscando constantemente evoluir como desenvolvedor
 
 ---
 
+## 🛠️ Tecnologias
+
+### 💻 Linguagens
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,java,kotlin,c,sql" />
+</p>
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,python,django,fastapi" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,sqlite" />
+</p>
+
+### 🏗️ DevOps & Ferramentas
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode" />
+</p>
+
+### 🤖 Inteligência Artificial & Dados
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 OncoVision — Inteligência Artificial para Mamografias
+
+Sistema de Inteligência Artificial voltado para análise de imagens médicas e classificação de achados em mamografias.
+
+**Tecnologias:** Python • PyTorch • OpenCV • Pydicom • Computer Vision • Machine Learning
+
+* Processamento de imagens médicas no formato DICOM
+* Utilização do dataset CBIS-DDSM
+* Pipeline de treinamento e validação
+* Classificação de imagens
+* Avaliação utilizando métricas como AUC
+* Separação dos dados por paciente para evitar vazamento de dados
+
+---
+
+### 🛒 E-commerce Distribuído
+
+Projeto de e-commerce desenvolvido com arquitetura baseada em microsserviços, explorando comunicação entre serviços, containers e separação de responsabilidades.
+
+**Tecnologias:** Node.js • Docker • APIs • Microsserviços • SQL
+
+* Arquitetura distribuída
+* Serviços independentes
+* APIs para comunicação entre componentes
+* Containerização com Docker
+* Estrutura preparada para evolução e escalabilidade
+
+---
+
+### 🗺️ Rotas Seguras — Rio de Janeiro
+
+Sistema de visualização geográfica desenvolvido para representar áreas de risco e auxiliar na identificação de rotas mais seguras.
+
+**Tecnologias:** JavaScript • Mapbox • deck.gl • APIs
+
+* Visualização de dados geográficos
+* Mapas interativos
+* Representação de áreas de risco
+* Cálculo e visualização de rotas
+* Exploração de dados geoespaciais
+
+---
+
+### ⚖️ SaaS Jurídico
+
+Plataforma web voltada para automação de tarefas jurídicas, com geração de documentos e funcionalidades baseadas em IA.
+
+**Tecnologias:** React • JavaScript • Backend Web • IA
+
+* Automação de documentos jurídicos
+* Interface web
+* Estrutura SaaS
+* Integração com serviços de IA
+
+---
+
+### 🐶 Amor se Adota
+
+Sistema desenvolvido para auxiliar uma ONG de resgate animal na divulgação e gerenciamento de animais disponíveis para adoção.
+
+**Tecnologias:** Django • React • Python • PostgreSQL/Supabase
+
+* Cadastro de animais
+* Sistema de adoção
+* Gerenciamento de informações
+* Integração entre frontend e backend
+* Armazenamento de dados
+
+---
+
+### 📱 Quiz Matemático Android
+
+Aplicativo mobile educacional desenvolvido para auxiliar no aprendizado de matemática através de quizzes interativos.
+
+**Tecnologias:** Kotlin • Android
+
+* Perguntas e respostas
+* Sistema de pontuação
+* Interface mobile
+* Conteúdo educacional interativo
+
+---
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -45,58 +172,14 @@
 
 ---
 
-## 🚀 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,c,mysql,git,github,vscode,kotlin" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-🔹 **Sistema de Consulta Médica com IA**
-Chatbot inteligente para triagem de pacientes via QR Code.
-
-🔹 **SaaS Jurídico**
-Plataforma web para geração automática de petições iniciais.
-
-🔹 **Sistema Amor se Adota**
-Plataforma para ONG de resgate animal usando Django + React.
-
-🔹 **Quiz Matemático Android**
-Aplicativo mobile educacional desenvolvido em Kotlin.
-
----
-
 ## ⭐ GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fran020-creator&show_icons=true&theme=tokyonight"/>
-</p>
 
----
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=fran020-creator&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🔝 Most Used Languages
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fran020-creator&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fran020-creator&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=fran020-creator&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fran020-creator&theme=react-dark&bg_color=000000&color=ffffff&line=0900FF&point=ffffff"/>
 </p>
 
 ---
@@ -113,7 +196,7 @@ Aplicativo mobile educacional desenvolvido em Kotlin.
 
 ## 📫 Let's Connect
 
-⭐ Sempre aberto para networking, projetos e oportunidades!
+⭐ Sempre aberto para networking, projetos, colaboração e oportunidades profissionais.
 
 💼 LinkedIn:
 https://www.linkedin.com/in/patrick-paiva-7a2749269/
